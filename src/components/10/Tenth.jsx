@@ -7,14 +7,14 @@ import img4 from '/src/assets/images/17.png';
 
 const Tenth = () => {
   return (
-    <article className='p-[40px_80px] text-center ph:p-[20px_20px] bg-[#F1F2F4]'>
+    <article className='p-[40px_80px] text-center md:p-[20px_20px] bg-[#F1F2F4]'>
         <h1 className='text-[40px] font-semibold mb-[20px] ph:mb-[15px]'>ПАРТНЁРЫ</h1>
         <div className='flex justify-between items-center'>
             <img src={l} alt="" />
             <img src={img1} alt="" />
-            <img src={img2} className='ph:hidden' alt="" />
-            <img src={img3} className='ph:hidden' alt="" />
-            <img src={img4} className='ph:hidden' alt="" />
+            <img src={img2} className='xl:hidden' alt="" />
+            <img src={img3} className='xl:hidden' alt="" />
+            <img src={img4} className='xl:hidden' alt="" />
             <img src={r} alt="" />
         </div>
     </article>

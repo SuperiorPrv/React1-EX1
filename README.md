@@ -1,10 +1,10 @@
-# My React project N6
+# Oskolnet
 
 Creator: Superior_P
 
 Created: 12.09.2024 22:46:22
 
-## Libraries/frameworks/builders that I used in project:
+## Libraries/Builders/Frameworks that I used in project:
 
 1. React
 

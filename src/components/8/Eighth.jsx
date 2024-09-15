@@ -4,9 +4,9 @@ import img3 from '/src/assets/images/9.png';
 
 const Eighth = () => {
   return (
-    <article className='p-[40px_80px] bg-[#F1F2F4] text-center ph:p-[10px_20px]'>
+    <article className='p-[40px_80px] bg-[#F1F2F4] text-center md:p-[40px] ph:p-[10px_20px]'>
         <h1 className='text-[40px] font-semibold mb-[20px]'>НОВОСТИ</h1>
-        <div className='grid grid-cols-[320px_320px_320px] justify-center gap-[30px] text-start ph:overflow-auto'>
+        <div className='grid grid-cols-[320px_320px_320px] justify-center gap-[30px] text-start overflow-auto'>
             <div className='p-[20px] bg-white rounded-md'>
                 <img src={img1} alt="" />
                 <h5 className='mt-[15px] mb-[10px] font-semibold text-[18px]'>05.03.2022</h5>
